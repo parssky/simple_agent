@@ -1,0 +1,7 @@
+iragent
+openai
+fastapi
+pydantic-settings
+pydantic
+redis
+uvicorn
